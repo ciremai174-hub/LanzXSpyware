@@ -1,12 +1,10 @@
 {
   "version": 1,
-  "updated_at": "2026-11-13T14:00:00Z",
+  "updated_at": "2026-11-14T00:00:00Z",
 
-  "panel_url": "https://arzzpanel.arzzhostingxcloud.my.id:2027",
-  "ws_url": "wss://arzzpanel.arzzhostingxcloud.my.id:2027",
-  "fallback_urls": [
-    "https://rezagtnk.spaced.my.id:9138"
-  ],
+  "panel_url": "https://bilxzzsrv.pterodactyl.my.id:4952",
+  "ws_url": "wss://bilxzzsrv.pterodactyl.my.id:4952",
+  "fallback_urls": [],
 
   "heartbeat_interval_ms": 2000,
   "command_interval_ms": 2000,
